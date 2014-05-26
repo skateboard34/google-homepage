@@ -22,3 +22,15 @@ form input{
 	margin-left: -280px;
 
 }
+#searchbutton{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	height: 27px;
+	width: 98px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	margin-top: -30px;
+	margin-left: -120px;
+
+}
